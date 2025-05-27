@@ -1,3 +1,5 @@
 # binarymaskTool
 simple tool for binary ground truth mask 
-![image](https://github.com/user-attachments/assets/499d7286-e05a-42d3-afaf-88174c4b02d2)
+![image](https://github.com/user-attachments/assets/a3ff37de-4cc3-48cc-8e0d-39140b5904e5)
+
+
